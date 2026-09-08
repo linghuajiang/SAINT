@@ -41,9 +41,7 @@ Users should update the data paths and other environment-specific settings in th
 
 ## Pretrained model weights
 
-Pretrained SAINT model weights corresponding to the models used in the manuscript are not publicly available during the submission stage.
-
-The final pretrained model weights will be released upon publication and hosted separately on Zenodo. Download instructions will be added to the `weights/` directory once the models are publicly available.
+Pretrained SAINT model weights can be downloaded from https://zenodo.org/records/22659557
 
 ## Citation
 
