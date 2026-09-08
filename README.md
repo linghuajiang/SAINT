@@ -15,7 +15,7 @@ SAINT was developed and tested with:
 Clone the repository and install the required Python packages:
 
 ```bash
-git clone <SAINT_REPOSITORY_URL>
+git clone https://github.com/linghuajiang/SAINT.git
 cd SAINT
 
 pip install -r requirements.txt
